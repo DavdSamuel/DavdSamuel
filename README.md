@@ -2,6 +2,3 @@
 - 👀 Sou interessado em programação, mas principalmente Python.
 - 🐍 No momento estou me especializando em Python.
 - 📨 Você pode conversar comigo em samuelmarinhodasilvamarinho@gmail.com
-- 📝 Meus projetos
-  - 🐍🍃 [**LaTeX-EDIT-Tools:**](https://github.com/DavdTheItGuy/LaTeX-EDIT-Tools) Algumas ferramentas para edição de códigos LaTeX
-  - 🧮 [**CBits:**](https://github.com/DavdTheItGuy/CBits) Um Mini-Kernel que pode fazer coisas como gerenciar memória
