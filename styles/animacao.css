@@ -1,0 +1,8 @@
+.char {
+  font-size: 150px;
+  transition: font-size .5s;
+}
+
+.char:hover {
+  font-size: 200px;
+}
