@@ -1,4 +1,5 @@
 - 👋 Oi, eu sou o David.
 - 👀 Sou interessado em programação, mas principalmente Python.
 - 🐍 No momento estou me especializando em Python.
-- 📨 Você pode conversar comigo em samuelmarinhodasilvamarinho@gmail.com
+- 📨 Você pode conversar comigo em samuelmarinhodasilvamarinho@gmail.com.
+- 🌐 [Meu site.](davdtheitguy.github.io)
