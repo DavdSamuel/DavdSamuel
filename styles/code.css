@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@600&display=swap');
 
 .code {
-  background: linear-gradient(90deg, #00dade, #0039ab);
+  background: linear-gradient(45deg, #00aaff, #00359e);
   border: 5px solid gray;
   border-radius: 30px;
   box-sizing: border-box;

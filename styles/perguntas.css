@@ -9,7 +9,7 @@
 }
 
 .pergunta {
-  background: linear-gradient(90deg, #00dade, #0039ab);
+  background: linear-gradient(45deg, #00dade, #0039ab);
   border: 5px solid gray;
   border-radius: 30px;
   box-sizing: border-box;
