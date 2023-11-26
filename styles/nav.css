@@ -23,3 +23,14 @@ nav button {
 .clicar:hover {
   background: #000485;
 }
+
+.clicar a:hover {
+  color: #fff;
+}
+
+@media only screen and (max-width: 600px) {
+  nav button {
+    width: 115px;
+    font-size: 15px;
+  }
+}
