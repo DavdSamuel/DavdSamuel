@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
 
-#perguntas {
+.perguntas {
   display: flex;
   flex-wrap: wrap;
   gap: 15px;
@@ -9,7 +9,7 @@
 }
 
 .pergunta {
-  background: linear-gradient(45deg, #00dade, #0039ab);
+  background: linear-gradient(45deg, #00aaff, #00359e);
   border: 5px solid gray;
   border-radius: 30px;
   box-sizing: border-box;
