@@ -5,26 +5,8 @@ body {
   text-align: center;
 }
 
-#espaco-branco {
+.espaco-branco {
   background: white;
   border-radius: 30px;
   padding: 35px;
-}
-
-@media only screen and (max-width: 1550px) {
-  #espaco-branco {
-    height: 125vh;
-  }
-}
-
-@media only screen and (max-width: 940px) {
-  #espaco-branco {
-    height: 175vh;
-  }
-}
-
-@media only screen and (max-width: 718px) {
-  #espaco-branco {
-    height: 220vh;
-  }
 }
