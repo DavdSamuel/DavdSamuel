@@ -11,6 +11,10 @@
   <link rel="stylesheet" href="styles/header.css">
   <link rel="stylesheet" href="styles/nav.css">
   <link rel="stylesheet" href="styles/perguntas.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap" rel="stylesheet">
+  <link rel="icon" href="img/favicon.ico">
 </head>
 
 <body>
@@ -36,7 +40,7 @@
       <h1>Oi 👋</h1>
     </header>
     <main>
-      <section class=perguntas>
+      <section class="perguntas">
         <section class="pergunta">
           <h2>Quem sou eu?</h2>
           <p>Eu sou o <span class="samuel">Samuel</span>!<br>
@@ -63,16 +67,17 @@
         <section class="code">
           <div class="code-background">
             <p>
-              <span class="include">#include</span> <span class="h">&lt;stdio.h&gt;</span><br>
-              <span class="include">#include</span> <span class="h">&lt;math.h&gt;</span> <span class="comentario">// Eu
+              <span id="include1" class="include">#include</span> <span id="stdioh" class="h">&lt;stdio.h&gt;</span><br>
+              <span id="include2" class="include">#include</span> <span id="mathh" class="h">&lt;math.h&gt;</span> <span
+                class="comentario">// Eu
                 ❤
                 Matemática</span><br>
-              <span class="keyword">int</span> <span class="funcao">main</span>() {<br>
-              &nbsp;&nbsp;<span class="keyword">printf</span>(<span class="string">"Tem muita coisa legal
+              <span class="keyword">int</span> <span id="main" class="funcao">main</span>() {<br>
+              &nbsp;&nbsp;<span id="printf" class="keyword">printf</span>(<span class="string">"Tem muita coisa legal
                 aqui!\n"</span>);
-              &nbsp;&nbsp;<span class="keyword">printf</span>(<span class="string">"√16 = %.2f\n"</span>, <span
-                class="funcao">sqrt</span>(16));<br>
-              &nbsp;&nbsp;<span class="keyword">return</span> 0;<br>
+              &nbsp;&nbsp;<span id="printf2" class="keyword">printf</span>(<span class="string">"√16 = %.2f\n"</span>,
+              <span class="funcao">sqrt</span>(16));<br>
+              &nbsp;&nbsp;<span id="creturn" class="keyword">return</span> 0;<br>
               }
             </p>
           </div>
@@ -80,6 +85,8 @@
       </section>
     </main>
   </div>
+
+  <script src="scripts/main.js"></script>
 </body>
 
 </html>
