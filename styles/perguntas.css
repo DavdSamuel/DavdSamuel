@@ -19,6 +19,15 @@
   width: 300px;
 }
 
+.pergunta a {
+  color: white;
+  text-decoration: none;
+}
+
+.pergunta-longa {
+  width: 500px;
+}
+
 .samuel {
   font-family: 'Young Serif', serif;
 }
