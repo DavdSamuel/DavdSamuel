@@ -42,3 +42,9 @@
 .string {
   color: #70ff70;
 }
+
+@media only screen and (max-width: 470px) {
+  .code-background p {
+    font-size: 12px;
+  }
+}

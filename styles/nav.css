@@ -31,3 +31,10 @@ nav button {
     font-size: 15px;
   }
 }
+
+@media only screen and (max-width: 470px) {
+  nav button {
+    width: 80px;
+    font-size: 8px;
+  }
+}
