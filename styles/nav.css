@@ -25,6 +25,11 @@ nav button {
   color: #fff;
 }
 
+button {
+  background-color: #fff;
+  border-radius: 30px;
+}
+
 @media only screen and (max-width: 600px) {
   nav button {
     width: 115px;
